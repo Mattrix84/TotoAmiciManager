@@ -1,1 +1,7 @@
 PyQt6
+SQLAlchemy
+Pandas
+Matplotlib
+Seaborn
+Reportlab
+Schedule
